@@ -18,11 +18,6 @@ Música, escritura, fotografía, vinos, viajes y herramientas para problemas cot
 | [Newsletters para viajar](newsletters-de-viaje/README.md) | Ir conociendo un lugar a través de sus historias. | En pruebas |
 | [Cómo armo AI a la mesa](ai-a-la-mesa/README.md) | Cómo convierto varios newsletters de AI en una lectura diaria. | En pruebas |
 | [Medir el consumo de IA](consumo-ia/README.md) | Un tablero para entender cuánto estoy usando las herramientas de IA. | En pruebas |
-| [Ordenar mis finanzas](finanzas/README.md) | Juntar movimientos y entender un poco mejor los gastos. | En pruebas |
-| [Leer datos electorales](datos-electorales/README.md) | Ordenar resultados de la UBA sin perder de vista cómo se contaron. | En pruebas |
-| [Coctelería en casa](cocteleria-en-casa/README.md) | Organizar botellas y recetas para pensar qué preparar. | En pruebas |
-| [Comidas del mundo](comidas-del-mundo/README.md) | Un recetario por países para explorar platos y guardar notas. | En pruebas |
-| [El Qwix en tu celu](qwix/README.md) | Una versión publicada que quiero recuperar del historial de Oikos. | Por recuperar |
 
 ## Otras herramientas y apuntes
 
