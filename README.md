@@ -16,8 +16,6 @@ Música, escritura, fotografía, vinos, viajes y herramientas para problemas cot
 | [Escritura con IA](escritura-con-ia/README.md) | Buscar una escritura con IA que me den ganas de leer, para aprender cosas nuevas. | En pruebas |
 | [Apps personales](apps-personales/README.md) | Armo un prototipo. ¿Por qué cuesta tanto compartirlo con una o dos personas? | En pruebas |
 | [Newsletters para viajar](newsletters-de-viaje/README.md) | Historia contada de forma entretenida, para ponerse a tono con un viaje. | En pruebas |
-| [Cómo armo AI a la mesa](ai-a-la-mesa/README.md) | Cómo convierto varios newsletters de AI en una lectura diaria. | En pruebas |
-| [Medir el consumo de IA](consumo-ia/README.md) | Un tablero para entender cuánto estoy usando las herramientas de IA. | En pruebas |
 
 ## Otras herramientas y apuntes
 
