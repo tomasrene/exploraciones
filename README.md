@@ -12,8 +12,8 @@ Música, escritura, fotografía, vinos, viajes y herramientas para problemas cot
 | [Playlists de discos](playlists/README.md) | Descubrir discos enteros, con su orden y su contexto. | En pruebas |
 | [Vinos entre catálogos](vinos/README.md) | Buscar joyitas entre catálogos de distribuidores y armar una carta de vinos. | En pruebas |
 | [Herramientas para restaurantes](restaurantes/README.md) | Revisar las facturas de un bar y probar los números de un obrador de pasta. | En pruebas |
-| [Aprender mirando mis fotos](fotografia/README.md) | Aprender fotografía mirando las fotos que voy sacando. | En pruebas |
-| [Escritura con IA](escritura-con-ia/README.md) | Probar qué pasa cuando una IA escribe, elige y corrige. | En pruebas |
+| [Aprender mirando mis fotos](fotografia/README.md) | Un tutor para aprender con mis fotos y volver a salir con algo para practicar. | En pruebas |
+| [Escritura con IA](escritura-con-ia/README.md) | Buscar una escritura con IA que me den ganas de leer, para aprender cosas nuevas. | En pruebas |
 | [Apps personales](apps-personales/README.md) | Sacar herramientas de las conversaciones y darles un lugar propio. | En pruebas |
 | [Newsletters para viajar](newsletters-de-viaje/README.md) | Ir conociendo un lugar a través de sus historias. | En pruebas |
 | [Cómo armo AI a la mesa](ai-a-la-mesa/README.md) | Cómo convierto varios newsletters de AI en una lectura diaria. | En pruebas |

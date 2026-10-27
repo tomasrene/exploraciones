@@ -1,8 +1,16 @@
 # Escritura con IA
 
-Probar qué pasa cuando una IA escribe, elige y corrige.
+Buscar una escritura con IA que me den ganas de leer, para aprender cosas nuevas.
 
-Me interesa escribir con IA, pero enseguida aparece una pregunta bastante menos técnica: ¿dan ganas de seguir leyendo lo que sale? Empecé a probar distintas formas de investigar, planificar y revisar, conservando los borradores para poder compararlos.
+Este proyecto salió de los newsletters de los viajes. Me gusta mucho escribir y siento que hay algo de la escritura humana que la IA todavía no logra imitar: la decisión de qué contar y con qué palabras. Para mí, ahí hay una diferencia entre un texto con alma y uno sin alma.
+
+En los newsletters lo veía bastante. Algunas veces salían muy bien y otras no tanto. Quería entender por qué y probar si podía construir un sistema que escribiera algo más parecido a lo que a mí me gustaría leer.
+
+## Aprender de a una entrega
+
+Hay muchas cosas que quiero aprender, y el formato newsletter me parece bueno para eso. Tiene una periodicidad, te llega sin que tengas que acordarte de abrir algo y no requiere bajar una app nueva. Si queda en la bandeja de entrada, se siente como una obligación pendiente.
+
+Quería explorar cómo explicar y redactar cosas para aprender en ese formato. A partir de ahí empecé una investigación bastante profunda sobre técnicas de escritura, tipos de textos, estructuras y formas de revisar.
 
 ## Dos entradas al mismo tema
 
@@ -16,12 +24,12 @@ Me interesa escribir con IA, pero enseguida aparece una pregunta bastante menos 
 
 Comienzos de dos borradores generados en una misma prueba sobre sistemas complejos. Se conservan tal como salieron.
 
-## Corregir también puede aplanar
+## Una de las cosas que me sorprendió
 
-El ensayo genera dos planes y dos textos independientes. Después elige uno y lo pasa por una ronda acotada de revisión. Las últimas pruebas fueron sobre sistemas complejos y Villa Savoye.
+Hay muchísimo escrito sobre cómo escribir. Aun así, llevar ese conocimiento a un sistema que produzca una voz que suene humana sigue siendo difícil.
 
-Corregir datos y mejorar una lectura son trabajos distintos. En estas pruebas quedaron textos que explicaban o recapitulaban de más, y una pieza conservó un problema editorial importante. El sistema todavía está en pruebas.
+En mis pruebas me resultó mejor pedirle que usara recursos tomados de un autor que decirle que escribiera como ese autor. Es una diferencia que me llamó la atención: trabajar con las herramientas que usa para contar algo daba mejores resultados que intentar copiarle la voz.
 
-Quiero seguir mirando los textos concretos: qué cambió entre versiones, qué mejoró y qué se perdió. Acumular correcciones por sí solo no dice demasiado sobre cómo se lee una pieza.
+La exploración sigue en curso. Todavía no logré producir textos que suenen como me gustaría. Los borradores, las comparaciones y las revisiones quedan guardados para seguir entendiendo qué funciona y qué termina apagando el texto.
 
 [Leer en la web](https://tomasrene.com/experimentos/escritura-con-ia) · [Volver al catálogo](../README.md)
