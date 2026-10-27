@@ -6,9 +6,12 @@ A mí no me gusta nada que en la actualidad, con Spotify pero por otros fenómen
 
 Pero además un álbum nace en un contexto, en un momento determinado, discutiendo con ciertas tendencias, con un perfil de letras. Yo quería volver a escuchar álbumes, pero también poder descubrir discos y artistas que no conocía.
 
-![Interfaz del armador de playlists con las nueve canciones de Clics Modernos agrupadas en el orden del disco.](../assets/playlists-discos-ejemplo.webp)
+- **El pedido:** Quiero recorrer a Charly desde Serú Girán hasta sus discos solistas de los 80. Elegí tres discos completos y contame qué cambia entre ellos.
+- **La selección de ejemplo:** Tres álbumes, con sus canciones en orden. Se puede conversar sobre el recorrido y cambiar la selección antes de llevarla a Spotify.
 
-La interfaz con un disco completo de ejemplo: Clics Modernos, de Charly García. Es una muestra preparada para esta página.
+![Interfaz de Playlists: un pedido para recorrer etapas de Charly y una selección de tres álbumes completos.](../assets/playlists-etapas-ejemplo.webp)
+
+Recorrer etapas de un artista: La grasa de las capitales, Clics Modernos y Piano Bar. Conversación preparada para mostrar la interfaz; no es una respuesta generada en vivo.
 
 ## Playlists, pero de álbumes
 
