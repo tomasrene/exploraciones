@@ -1,12 +1,22 @@
 # Herramientas para restaurantes
 
-Números, facturas y otras tareas alrededor de un restaurante.
+Revisar las facturas de un bar y probar los números de un obrador de pasta.
 
-Acá se juntan dos pruebas distintas. Una para jugar con los números de un negocio; otra para ordenar el trabajo de las facturas. Todavía no forman un sistema integrado.
+Son dos herramientas que salieron de situaciones bastante distintas. Flama era mi bar de vinos y necesitaba revisar la contabilidad. Falcone era un proyecto de obrador de pasta que finalmente no llegamos a montar.
 
-## Falcone: mover un supuesto
+## Flama: revisar todas las facturas
 
-Falcone es un simulador mensual. Se pueden mover ventas, precios, costos de comida, trabajo y gastos fijos para ver cómo cambia el resultado. Los valores son supuestos del modelo.
+Al revisar los borradores de IVA que nos pasaba la gestoría encontrábamos errores una y otra vez. En una ocasión la diferencia fue de cientos de euros, que para un bar es mucha plata.
+
+Así que había que procesar todas las facturas de los proveedores y hacer las cuentas por nuestra cuenta para poder contrastarlas con el borrador. Ahí apareció otra vez el problema de los archivos: PDFs, imágenes, formatos distintos y datos repartidos de maneras bastante diferentes.
+
+La herramienta salió de esa necesidad: extraer la información de las facturas, ordenarla y compararla con los registros de compras. El trabajo incluía revisar lo extraído contra el documento original.
+
+## Falcone: jugar con los escenarios antes de abrir
+
+Con Falcone quería construir una herramienta para jugar con escenarios de horarios, aforo y cubiertos servidos. Ver cómo cambiaban los números al mover unas pocas variables y dimensionar lo apretados que pueden ser los márgenes en gastronomía.
+
+El simulador permite variar ventas, precios, costos de comida, trabajo y gastos fijos. El proyecto del obrador finalmente no se hizo; quedó esta herramienta para explorar qué pasaría si cambiara alguno de esos supuestos.
 
 ```python
 gross_profit = total_revenue - total_food_cost
@@ -15,11 +25,7 @@ ebitda = gross_profit - labor_total - fixed_cost_total
 
 Dos líneas de compute_pnl, la función que calcula los escenarios del simulador.
 
-## Flama: del documento a la tabla
-
-Flama arranca en otro lugar: facturas en PDF o imagen que hay que pasar a una tabla y revisar. Hay pruebas de extracción y comparación con registros de compras.
-
-Me interesa que el dato extraído siga cerca del documento. Si algo no cierra, debería poder volver a la factura y corregirlo sin perder esa decisión en la próxima importación.
+Esa era la intención: poder ver cómo una o dos variables que se te escapan pueden cambiar todo el resultado. Antes de abrir, no cuando ya estás adentro.
 
 [Leer en la web](https://tomasrene.com/experimentos/restaurantes) · [Volver al catálogo](../README.md)
 

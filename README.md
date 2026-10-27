@@ -10,8 +10,8 @@ Música, escritura, fotografía, vinos, viajes y herramientas para problemas cot
 | --- | --- | --- |
 | [Patentes](patentes/README.md) | Un juego de viaje para ir coleccionando patentes europeas. | En pruebas |
 | [Playlists de discos](playlists/README.md) | Descubrir discos enteros, con su orden y su contexto. | En pruebas |
-| [Vinos entre catálogos](vinos/README.md) | Juntar catálogos de distribuidores y poder buscar entre ellos. | En pruebas |
-| [Herramientas para restaurantes](restaurantes/README.md) | Números, facturas y otras tareas alrededor de un restaurante. | En pruebas |
+| [Vinos entre catálogos](vinos/README.md) | Buscar joyitas entre catálogos de distribuidores y armar una carta de vinos. | En pruebas |
+| [Herramientas para restaurantes](restaurantes/README.md) | Revisar las facturas de un bar y probar los números de un obrador de pasta. | En pruebas |
 | [Aprender mirando mis fotos](fotografia/README.md) | Aprender fotografía mirando las fotos que voy sacando. | En pruebas |
 | [Escritura con IA](escritura-con-ia/README.md) | Probar qué pasa cuando una IA escribe, elige y corrige. | En pruebas |
 | [Apps personales](apps-personales/README.md) | Sacar herramientas de las conversaciones y darles un lugar propio. | En pruebas |
