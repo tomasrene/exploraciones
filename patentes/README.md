@@ -1,20 +1,19 @@
 # Patentes
 
-Mirar patentes, adivinar el país y completar el álbum.
+Un juego de viaje para ir coleccionando patentes europeas.
 
-Un álbum de patentes europeas: mirar una, tratar de reconocer el país y marcar las que ya vimos. Quería llevar ese juego al celu y poder seguirlo después desde la compu.
+En los viajes por Europa hay un juego que se repite: mirar las patentes de los autos y preguntarse “¿esta ya la vimos?”. Después vinieron las otras preguntas: cuántos tipos hay, qué país corresponde a cada sigla, cuáles son las más raras.
+
+Un día pensé que podía armar un álbum para ir coleccionándolas. Algo sencillo para tener en el celu: reconocer una patente, ver el país y marcar las que ya aparecieron.
 
 ![Interfaz del álbum de patentes, con filtros y patentes de varios países.](../assets/patentes-ejemplo.webp)
 
 El álbum con progreso de ejemplo.
 
-## Del álbum al celu
+## Un álbum para la ruta
 
-La app permite dar vuelta una patente para ver el país, marcarla y volver a las que faltan. Las diferencias de bandas, colores y formatos son buena parte del juego.
+La app permite revelar el país de una patente, marcarla como vista y volver a las que faltan. Hay formatos, bandas y colores distintos; parte del juego es ir aprendiendo a reconocerlos.
 
-Después aparece otra cuestión: cómo compartir el mismo álbum sin complicar algo que empezó siendo bastante sencillo. El progreso entre dispositivos está implementado; la forma de compartirlo sigue en revisión.
-
-- **Reconocer:** La banda y el formato dan pistas antes de revelar el país.
-- **Volver después:** Poder cerrar la app y seguir con el mismo álbum.
+Después me enteré de que hay toda una comunidad de cazadores de patentes.
 
 [Leer en la web](https://tomasrene.com/experimentos/patentes) · [Volver al catálogo](../README.md)

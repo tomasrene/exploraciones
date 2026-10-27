@@ -1,27 +1,29 @@
-# Playlists conversadas
+# Playlists de discos
 
-Pedir música con palabras e ir ajustando la selección.
+Descubrir discos enteros, con su orden y su contexto.
 
-Quería poder pedir una playlist como se la pediría a alguien: qué tengo ganas de escuchar, para qué momento y qué prefiero evitar. Y después poder decir “por acá sí, por acá no” sin empezar de cero.
+Con Spotify y otras formas de escuchar música, siento que cada vez terminamos más en playlists de canciones sueltas. A mí me gusta mucho el álbum: un artista elige un orden, te lleva de una canción más arriba a otra más abajo y arma un recorrido.
 
-![Interfaz de Playlists, con una conversación a la izquierda y canciones agrupadas a la derecha.](../assets/playlists-ejemplo.webp)
+Además, un disco nace en un momento. Tiene un contexto, conversa con otras músicas y tiene algo que decir en sus letras. Quería volver a escuchar así, y al mismo tiempo descubrir artistas y discos que no conocía.
 
-La interfaz con una conversación y canciones de ejemplo.
+![Interfaz del armador de playlists con las nueve canciones de Clics Modernos agrupadas en el orden del disco.](../assets/playlists-discos-ejemplo.webp)
 
-## Una canción también tiene versiones
+La interfaz con un disco completo de ejemplo: Clics Modernos, de Charly García. Es una muestra preparada para esta página.
 
-Hay una versión local con chat, varias playlists en pestañas, edición a mano y exportación a Spotify. La primera interfaz estaba hecha en Streamlit; después pasó a una app web con historial.
+## Una playlist armada con álbumes
 
-Una parte del trabajo está en encontrar las canciones. El nombre que propone un modelo no siempre alcanza para elegir una grabación concreta en Spotify.
+Hoy es fácil buscar música para un mood muy específico. Algo tipo “música chill para un asado de domingo a la tarde, con sol pero no tanto calor”. Mi idea era pedir una playlist así, pero compuesta por álbumes enteros de distintos artistas, respetando el orden de cada disco.
+
+También me interesan pedidos como “los tres mejores discos de Charly”. Recorrer a un artista por sus obras, aunque haya algún tema que no me guste en el medio, en vez de terminar siempre en un “Greatest Hits” o un “This Is…”.
 
 ```python
-qs.append(f"{t} artist:{a}")
-if raw and raw not in qs:
-    qs.append(raw)
+raw_items = iter_album_track_items(sp, aid)
 ```
 
-Recorte de playlist_resolver.py: primero busca título y artista; después prueba una búsqueda menos restrictiva.
+Un recorte del código que recupera las canciones del álbum desde Spotify para incorporarlo completo.
 
-Me interesa seguir por ese lado: que la conversación ayude a encontrar música, pero que cambiar una canción o corregir una selección siga siendo fácil.
+De ahí salió el armador de playlists. La versión local permite conversar sobre la selección, trabajar con varias propuestas y llevarlas a Spotify. Lo que quiero conservar en ese recorrido es el disco completo: sus canciones, su orden y la posibilidad de descubrir algo más que los temas conocidos.
 
 [Leer en la web](https://tomasrene.com/experimentos/playlists) · [Volver al catálogo](../README.md)
+
+[El disco del ejemplo en Spotify](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H)

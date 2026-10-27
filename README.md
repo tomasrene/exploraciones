@@ -8,8 +8,8 @@ Música, escritura, fotografía, vinos, viajes y herramientas para problemas cot
 
 | Exploración | Qué busco | Estado |
 | --- | --- | --- |
-| [Patentes](patentes/README.md) | Mirar patentes, adivinar el país y completar el álbum. | En pruebas |
-| [Playlists conversadas](playlists/README.md) | Pedir música con palabras e ir ajustando la selección. | En pruebas |
+| [Patentes](patentes/README.md) | Un juego de viaje para ir coleccionando patentes europeas. | En pruebas |
+| [Playlists de discos](playlists/README.md) | Descubrir discos enteros, con su orden y su contexto. | En pruebas |
 | [Vinos entre catálogos](vinos/README.md) | Juntar catálogos de distribuidores y poder buscar entre ellos. | En pruebas |
 | [Herramientas para restaurantes](restaurantes/README.md) | Números, facturas y otras tareas alrededor de un restaurante. | En pruebas |
 | [Aprender mirando mis fotos](fotografia/README.md) | Aprender fotografía mirando las fotos que voy sacando. | En pruebas |
