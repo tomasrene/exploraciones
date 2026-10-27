@@ -25,7 +25,7 @@ ebitda = gross_profit - labor_total - fixed_cost_total
 
 Dos líneas de compute_pnl, la función que calcula los escenarios del simulador.
 
-Esa era la intención: poder ver cómo una o dos variables que se te escapan pueden cambiar todo el resultado. Antes de abrir, no cuando ya estás adentro.
+Eso era lo que quería mostrar: lo apretados que son los números en la gastronomía. Con una o dos variables que no controles, se te va todo a la mierda.
 
 [Leer en la web](https://tomasrene.com/experimentos/restaurantes) · [Volver al catálogo](../README.md)
 

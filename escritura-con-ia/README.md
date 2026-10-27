@@ -8,7 +8,7 @@ En los newsletters lo veía bastante. Algunas veces salían muy bien y otras no 
 
 ## Aprender de a una entrega
 
-Hay muchas cosas que quiero aprender, y el formato newsletter me parece bueno para eso. Tiene una periodicidad, te llega sin que tengas que acordarte de abrir algo y no requiere bajar una app nueva. Si queda en la bandeja de entrada, se siente como una obligación pendiente.
+Hay muchas cosas que quiero aprender y el formato newsletter me parece bueno: tiene una periodicidad, te llega y no tenés que abrir algo vos. Si queda en la bandeja de entrada se siente como una obligación, y no requiere bajar una app nueva.
 
 Quería explorar cómo explicar y redactar cosas para aprender en ese formato. A partir de ahí empecé una investigación bastante profunda sobre técnicas de escritura, tipos de textos, estructuras y formas de revisar.
 
@@ -26,10 +26,10 @@ Comienzos de dos borradores generados en una misma prueba sobre sistemas complej
 
 ## Una de las cosas que me sorprendió
 
-Hay muchísimo escrito sobre cómo escribir. Aun así, llevar ese conocimiento a un sistema que produzca una voz que suene humana sigue siendo difícil.
+Hay mucho escrito sobre cómo escribir, pero todavía es difícil darle una voz humana a la IA. En el medio me crucé con cosas bastante llamativas.
 
 En mis pruebas me resultó mejor pedirle que usara recursos tomados de un autor que decirle que escribiera como ese autor. Es una diferencia que me llamó la atención: trabajar con las herramientas que usa para contar algo daba mejores resultados que intentar copiarle la voz.
 
-La exploración sigue en curso. Todavía no logré producir textos que suenen como me gustaría. Los borradores, las comparaciones y las revisiones quedan guardados para seguir entendiendo qué funciona y qué termina apagando el texto.
+Todavía no logré producir textos que suenen como me gustaría. Es una exploración que sigue en curso. Voy guardando los borradores y las comparaciones para seguir probando.
 
 [Leer en la web](https://tomasrene.com/experimentos/escritura-con-ia) · [Volver al catálogo](../README.md)

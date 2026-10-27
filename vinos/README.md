@@ -10,7 +10,7 @@ El problema era que tenía muchos catálogos. Algunos larguísimos, que además 
 
 Ese es el tipo de pedido que quería poder hacer. La región puede estar escrita en el catálogo; “ligero” ya requiere interpretar qué vino podría encajar con lo que estoy buscando. Encontrar un fragmento de texto parecido no alcanza para resolver toda la consulta.
 
-La exploración combinó recuperar información de los catálogos con un LLM que pudiera razonar sobre el pedido y los vinos disponibles.
+Lo que armé fue una mezcla de RAG con búsqueda de LLM encima de los catálogos, para que pudiera interpretar ese pedido y buscar entre los vinos disponibles.
 
 ## Antes había que leer los catálogos
 
@@ -21,6 +21,6 @@ Después monté una mezcla de RAG y búsqueda con LLM sobre esa información. La
 - **La ficha del vino:** Región, productor, cepas, añada, perfil y precio, reunidos en un esquema común.
 - **El precio también hay que leerlo:** En algunos catálogos venía con IVA, en otros sin IVA, y a veces ni siquiera estaba aclarado.
 
-Terminó siendo bastante más interesante técnicamente de lo que parecía al principio. Una búsqueda aparentemente sencilla obligaba a trabajar con formatos distintos, interpretar pedidos y resolver detalles tan poco vistosos como averiguar qué incluía un precio. Problemas del mundo real, básicamente.
+Bastante interesante técnicamente el problema, la verdad, para ser algo aparentemente tan sencillo. Entre los formatos, las búsquedas y los precios con IVA o sin IVA, terminó teniendo un montón de problemas del mundo real.
 
 [Leer en la web](https://tomasrene.com/experimentos/vinos) · [Volver al catálogo](../README.md)

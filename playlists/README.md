@@ -2,9 +2,9 @@
 
 Descubrir discos enteros, con su orden y su contexto.
 
-Con Spotify y otras formas de escuchar música, siento que cada vez terminamos más en playlists de canciones sueltas. A mí me gusta mucho el álbum: un artista elige un orden, te lleva de una canción más arriba a otra más abajo y arma un recorrido.
+A mí no me gusta nada que hoy, con Spotify pero por otros fenómenos también, uno tienda a escuchar playlists fragmentadas. Siento que se perdió el concepto del álbum. Y para mí el álbum tiene algo muy lindo: un artista elige un orden de canciones para ir llevándote por un mood, te pone una más arriba, otra más abajo.
 
-Además, un disco nace en un momento. Tiene un contexto, conversa con otras músicas y tiene algo que decir en sus letras. Quería volver a escuchar así, y al mismo tiempo descubrir artistas y discos que no conocía.
+Pero además un álbum nace en un contexto, en un momento determinado, discutiendo con ciertas tendencias, con un perfil de letras. Yo quería volver a escuchar álbumes, pero también poder descubrir discos y artistas que no conocía.
 
 ![Interfaz del armador de playlists con las nueve canciones de Clics Modernos agrupadas en el orden del disco.](../assets/playlists-discos-ejemplo.webp)
 

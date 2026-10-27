@@ -1,12 +1,14 @@
 # Newsletters para viajar
 
-Ir conociendo un lugar a través de sus historias.
+Historia contada de forma entretenida, para ponerse a tono con un viaje.
 
-Quería ir sumando contexto sobre los lugares: una lectura por vez, con historias que pudieran seguir de una entrega a otra. Primero apareció el proyecto sobre Polonia y después Balcanizados.
+La idea era tener contenido histórico, narrado de forma divertida, para ponerse a tono con un viaje. Ir conociendo la historia, datos importantes y un poco de lo que había pasado en los lugares que iba a visitar.
 
-Balcanizados tiene pasos de planificación, escritura, revisión narrativa e imágenes, además del armado del correo. Los borradores intermedios quedan guardados para poder volver a una parte sin rehacer todo.
+El newsletter llegaba los días anteriores y durante el viaje. Estaba bueno porque uno iba mucho más empapado.
 
-Me interesa seguir probando cómo elegir un recorrido y una voz para cada historia. La automatización tiende a repetir soluciones, y ahí hay bastante para revisar.
+De ahí salieron los proyectos de Polonia y Balcanizados. El sistema tiene pasos de planificación, escritura, revisión narrativa e imágenes, además del armado del correo. Los borradores quedan guardados para poder volver a una parte sin rehacer todo.
+
+Con los textos pasó algo que después me llevó al proyecto de Escritura con IA: algunas veces salían muy bien y otras no tanto. Quería entender por qué.
 
 [Leer en la web](https://tomasrene.com/experimentos/newsletters-de-viaje) · [Volver al catálogo](../README.md)
 

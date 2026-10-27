@@ -2,9 +2,9 @@
 
 Un juego de viaje para ir coleccionando patentes europeas.
 
-En los viajes por Europa hay un juego que se repite: mirar las patentes de los autos y preguntarse “¿esta ya la vimos?”. Después vinieron las otras preguntas: cuántos tipos hay, qué país corresponde a cada sigla, cuáles son las más raras.
+Cuando viajo por la ruta o por distintos países de Europa, hay un juego que se repite: ir mirando las patentes y preguntar “uh, ¿esta ya la vimos?”. Un día aparecieron más preguntas: qué tipos de patentes existen, cuáles serán las más raras, qué nombre e inicial tienen los distintos países.
 
-Un día pensé que podía armar un álbum para ir coleccionándolas. Algo sencillo para tener en el celu: reconocer una patente, ver el país y marcar las que ya aparecieron.
+Así que dije: “voy a armar un juego para ir coleccionando patentes”. Fue simplemente eso, una exploración divertida de un juego de viaje.
 
 ![Interfaz del álbum de patentes, con filtros y patentes de varios países.](../assets/patentes-ejemplo.webp)
 

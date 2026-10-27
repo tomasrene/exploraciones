@@ -14,8 +14,8 @@ Música, escritura, fotografía, vinos, viajes y herramientas para problemas cot
 | [Herramientas para restaurantes](restaurantes/README.md) | Revisar las facturas de un bar y probar los números de un obrador de pasta. | En pruebas |
 | [Aprender mirando mis fotos](fotografia/README.md) | Un tutor para aprender con mis fotos y volver a salir con algo para practicar. | En pruebas |
 | [Escritura con IA](escritura-con-ia/README.md) | Buscar una escritura con IA que me den ganas de leer, para aprender cosas nuevas. | En pruebas |
-| [Apps personales](apps-personales/README.md) | Sacar herramientas de las conversaciones y darles un lugar propio. | En pruebas |
-| [Newsletters para viajar](newsletters-de-viaje/README.md) | Ir conociendo un lugar a través de sus historias. | En pruebas |
+| [Apps personales](apps-personales/README.md) | Armo un prototipo. ¿Por qué cuesta tanto compartirlo con una o dos personas? | En pruebas |
+| [Newsletters para viajar](newsletters-de-viaje/README.md) | Historia contada de forma entretenida, para ponerse a tono con un viaje. | En pruebas |
 | [Cómo armo AI a la mesa](ai-a-la-mesa/README.md) | Cómo convierto varios newsletters de AI en una lectura diaria. | En pruebas |
 | [Medir el consumo de IA](consumo-ia/README.md) | Un tablero para entender cuánto estoy usando las herramientas de IA. | En pruebas |
 
