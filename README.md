@@ -1,6 +1,6 @@
 # Exploraciones
 
-Algunas herramientas funcionan, otras están a medio hacer y otras siguen siendo preguntas. Acá cuento qué quería resolver, qué probé y dónde quedó cada una.
+Estas son algunas de las cosas que ando probando. Hay apps, fotos, pruebas con IA y bastante material a medio hacer.
 
 Música, escritura, fotografía, vinos, viajes y herramientas para problemas cotidianos. Las fichas cuentan las intenciones y el estado de las pruebas; no todas incluyen código o una aplicación pública.
 
@@ -8,21 +8,21 @@ Música, escritura, fotografía, vinos, viajes y herramientas para problemas cot
 
 | Exploración | Qué busco | Estado |
 | --- | --- | --- |
-| [Patentes](patentes/README.md) | Un álbum para reconocer patentes europeas y marcar las que van apareciendo. | En pruebas |
-| [Playlists conversadas](playlists/README.md) | Armar y ajustar playlists describiendo lo que quiero escuchar. | En pruebas |
-| [Vinos entre catálogos](vinos/README.md) | Reunir catálogos de distribuidores para buscar y comparar vinos. | En pruebas |
-| [Herramientas para restaurantes](restaurantes/README.md) | Explorar los números de un negocio y ordenar tareas administrativas. | En pruebas |
-| [Aprender mirando mis fotos](fotografia/README.md) | Un editor crítico para aprender fotografía a partir de fotos propias. | En pruebas |
-| [Escritura con IA](escritura-con-ia/README.md) | Probar cómo planificar, escribir y revisar sin perder interés ni voz. | En pruebas |
-| [Apps personales](apps-personales/README.md) | Convertir ideas que viven en conversaciones en herramientas cotidianas. | En pruebas |
-| [Newsletters para viajar](newsletters-de-viaje/README.md) | Aprender sobre los lugares a través de historias y contexto. | En pruebas |
-| [Cómo armo AI a la mesa](ai-a-la-mesa/README.md) | Seleccionar, explicar y organizar noticias para mantenerme al día. | En pruebas |
-| [Medir el consumo de IA](consumo-ia/README.md) | Entender la cuota, los tokens y el costo estimado de las herramientas. | En pruebas |
-| [Ordenar mis finanzas](finanzas/README.md) | Clasificar movimientos y entender los gastos sin perder el detalle. | En pruebas |
-| [Leer datos electorales](datos-electorales/README.md) | Ordenar resultados y ver qué comparaciones permiten las fuentes. | En pruebas |
+| [Patentes](patentes/README.md) | Mirar patentes, adivinar el país y completar el álbum. | En pruebas |
+| [Playlists conversadas](playlists/README.md) | Pedir música con palabras e ir ajustando la selección. | En pruebas |
+| [Vinos entre catálogos](vinos/README.md) | Juntar catálogos de distribuidores y poder buscar entre ellos. | En pruebas |
+| [Herramientas para restaurantes](restaurantes/README.md) | Números, facturas y otras tareas alrededor de un restaurante. | En pruebas |
+| [Aprender mirando mis fotos](fotografia/README.md) | Aprender fotografía mirando las fotos que voy sacando. | En pruebas |
+| [Escritura con IA](escritura-con-ia/README.md) | Probar qué pasa cuando una IA escribe, elige y corrige. | En pruebas |
+| [Apps personales](apps-personales/README.md) | Sacar herramientas de las conversaciones y darles un lugar propio. | En pruebas |
+| [Newsletters para viajar](newsletters-de-viaje/README.md) | Ir conociendo un lugar a través de sus historias. | En pruebas |
+| [Cómo armo AI a la mesa](ai-a-la-mesa/README.md) | Cómo convierto varios newsletters de AI en una lectura diaria. | En pruebas |
+| [Medir el consumo de IA](consumo-ia/README.md) | Un tablero para entender cuánto estoy usando las herramientas de IA. | En pruebas |
+| [Ordenar mis finanzas](finanzas/README.md) | Juntar movimientos y entender un poco mejor los gastos. | En pruebas |
+| [Leer datos electorales](datos-electorales/README.md) | Ordenar resultados de la UBA sin perder de vista cómo se contaron. | En pruebas |
 | [Coctelería en casa](cocteleria-en-casa/README.md) | Organizar botellas y recetas para pensar qué preparar. | En pruebas |
 | [Comidas del mundo](comidas-del-mundo/README.md) | Un recetario por países para explorar platos y guardar notas. | En pruebas |
-| [El Qwix en tu celu](qwix/README.md) | Una idea pendiente de desarrollar y contar. | Idea |
+| [El Qwix en tu celu](qwix/README.md) | Una versión publicada que quiero recuperar del historial de Oikos. | Por recuperar |
 
 ## Otras herramientas y apuntes
 

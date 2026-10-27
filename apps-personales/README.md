@@ -1,28 +1,15 @@
 # Apps personales
 
-Convertir ideas que viven en conversaciones en herramientas cotidianas.
+Sacar herramientas de las conversaciones y darles un lugar propio.
 
-**Estado: en pruebas.**
+Hay herramientas que quiero usar seguido y terminan viviendo dentro de una conversación. Me interesa poder abrirlas por su nombre, encontrar mis datos y cambiar algo sin explicar otra vez todo el proyecto.
 
-## Qué quería hacer
+## Probar con casos chicos
 
-Muchas herramientas que quiero usar terminan viviendo dentro de conversaciones. Quiero poder abrirlas por su nombre, conservar sus datos y usarlas desde el teléfono sin volver a explicar cada vez qué necesitaba.
+My Apps es el nombre provisional de esa búsqueda. Armé un laboratorio con tres casos: Patentes, Cocktails y AI News. El ensayo usa datos ficticios para probar preguntas, decisiones y aplicaciones que puedan funcionar por separado.
 
-## Qué probé
+Por ahora sirve para estudiar el recorrido. Todavía no es una app que recibe cualquier idea y la convierte sola en un producto.
 
-My Apps es el nombre provisional de esa búsqueda. Hay un laboratorio con tres casos: Patentes, Cocktails y AI News.
-
-El laboratorio permite probar preguntas, decisiones y aplicaciones separadas con datos ficticios. Todavía no es un producto que genere cualquier aplicación a partir de una conversación.
-
-## El recorrido que quiero investigar
-
-1. Contar una necesidad
-2. Decidir lo que cambia el uso
-3. Probar una herramienta
-4. Volver a usarla y cambiarla
-
-## Qué sigue abierto
-
-Qué hace falta para pasar de una primera aplicación que abre a una herramienta que se puede usar, compartir, cambiar y mantener.
+Queda por ver qué hace falta entre “la app abre” y una herramienta que realmente se pueda usar, compartir y mantener. Ese tramo me interesa tanto como la primera construcción.
 
 [Leer en la web](https://tomasrene.com/experimentos/apps-personales) · [Volver al catálogo](../README.md)

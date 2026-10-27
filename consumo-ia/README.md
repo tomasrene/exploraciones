@@ -1,29 +1,11 @@
 # Medir el consumo de IA
 
-Entender la cuota, los tokens y el costo estimado de las herramientas.
+Un tablero para entender cuánto estoy usando las herramientas de IA.
 
-**Estado: en pruebas.**
+Quería entender los números de uso: cuánto queda de cuota, cuántos tokens registra este equipo y qué costaría algo equivalente por API. Son medidas distintas y era fácil mezclarlas.
 
-## Qué quería hacer
+Armé un monitor local que guarda lecturas y un tablero por fechas y modelos. Importa contadores sin guardar el texto de las conversaciones. También calcula una estimación con tarifas de API cuando hay información suficiente.
 
-Quiero entender cuánto estoy usando las herramientas de IA y qué significa cada número. La cuota de una cuenta, los tokens registrados localmente y un costo estimado responden preguntas distintas.
-
-## Qué probé
-
-Armé un monitor local con historial y un tablero por fechas y modelos. Consulta la cuota e importa contadores de tokens sin guardar el texto de las conversaciones.
-
-También estima un equivalente de costo por API con tarifas verificadas y muestra qué parte del uso puede valorar. Esa estimación no es una factura ni el precio de la suscripción.
-
-## Tres números diferentes
-
-| Medida | Qué cuenta |
-| --- | --- |
-| Cuota | La ventana de uso informada por la cuenta. |
-| Tokens locales | Los eventos registrados en este equipo. |
-| Costo estimado | Una valoración con tarifas de API y cobertura explícita. |
-
-## Qué sigue abierto
-
-Cómo mostrar lo que se pudo medir sin dar una falsa impresión de cobertura total: puede haber uso desde otros equipos o servicios que no aparece en el registro local.
+El registro local no ve todo: puede faltar uso desde otro equipo o servicio. La cuota pertenece a la cuenta completa. Esa diferencia tiene que quedar visible para que el gráfico no cuente una historia que los datos no sostienen.
 
 [Leer en la web](https://tomasrene.com/experimentos/consumo-ia) · [Volver al catálogo](../README.md)

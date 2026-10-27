@@ -1,27 +1,27 @@
 # Playlists conversadas
 
-Armar y ajustar playlists describiendo lo que quiero escuchar.
+Pedir música con palabras e ir ajustando la selección.
 
-**Estado: en pruebas.**
+Quería poder pedir una playlist como se la pediría a alguien: qué tengo ganas de escuchar, para qué momento y qué prefiero evitar. Y después poder decir “por acá sí, por acá no” sin empezar de cero.
 
-## Qué quería hacer
+![Interfaz de Playlists, con una conversación a la izquierda y canciones agrupadas a la derecha.](../assets/playlists-ejemplo.webp)
 
-Quiero poder pedir música con palabras, conversar sobre una selección y llevarla a Spotify. El interés está en poder ajustar la propuesta hasta que tenga sentido para lo que quiero escuchar.
+La interfaz con una conversación y canciones de ejemplo.
 
-## Qué probé
+## Una canción también tiene versiones
 
-Hay una versión local con conversación, varias playlists en pestañas, ajustes y edición manual.
+Hay una versión local con chat, varias playlists en pestañas, edición a mano y exportación a Spotify. La primera interfaz estaba hecha en Streamlit; después pasó a una app web con historial.
 
-La herramienta verifica coincidencias de canciones en Spotify y permite exportar. Pasó de una interfaz en Streamlit a una aplicación web con historial de sesiones.
+Una parte del trabajo está en encontrar las canciones. El nombre que propone un modelo no siempre alcanza para elegir una grabación concreta en Spotify.
 
-## Un pedido posible
+```python
+qs.append(f"{t} artist:{a}")
+if raw and raw not in qs:
+    qs.append(raw)
+```
 
-> Una playlist para cocinar un domingo: algo de soul, canciones en español y sin arrancar demasiado arriba.
+Recorte de playlist_resolver.py: primero busca título y artista; después prueba una búsqueda menos restrictiva.
 
-La conversación puede servir para ajustar el rumbo; la selección también se puede editar a mano.
-
-## Qué sigue abierto
-
-Cómo combinar una propuesta musical abierta con el control sobre canciones concretas, versiones y resultados que realmente existen en Spotify.
+Me interesa seguir por ese lado: que la conversación ayude a encontrar música, pero que cambiar una canción o corregir una selección siga siendo fácil.
 
 [Leer en la web](https://tomasrene.com/experimentos/playlists) · [Volver al catálogo](../README.md)

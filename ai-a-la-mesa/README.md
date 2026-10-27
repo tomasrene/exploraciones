@@ -1,28 +1,14 @@
 # Cómo armo AI a la mesa
 
-Seleccionar, explicar y organizar noticias para mantenerme al día.
+Cómo convierto varios newsletters de AI en una lectura diaria.
 
-**Estado: en pruebas.**
+El punto de partida fueron los newsletters de AI: muchas fuentes, novedades que se repiten y cosas que después quiero volver a encontrar. De ahí salió AI a la mesa.
 
-## Qué quería hacer
+El proceso reúne las fuentes, selecciona novedades y arma el envío. Plato principal para detenerse a entender, Picoteo para enterarse de otras cosas y Postre para elegir una lectura con más tiempo.
 
-El newsletter nació de querer entender qué pasó en AI sin tener que recorrer cada correo por separado. Me interesa seleccionar qué merece atención y conservar fuentes que después puedan servir para investigar y escribir.
+Buena parte del trabajo está en la selección. Un detalle puede ser interesante y aun así no merecer abrir el newsletter. También hay que reconocer cuándo un tema vuelve porque pasó algo nuevo.
 
-## Qué probé
-
-El proceso reúne newsletters, identifica novedades y organiza una lectura con noticias principales, breves y piezas para leer con tiempo.
-
-La selección y la escritura tienen criterios distintos: una noticia puede ser interesante sin merecer abrir la edición. El archivo de investigación sigue siendo una parte en desarrollo.
-
-## Tres formas de leer
-
-1. Plato principal · entender
-2. Picoteo · enterarse
-3. Postre · elegir una lectura
-
-## Qué sigue abierto
-
-Cómo mantener el criterio entre días, reconocer qué cambió en un tema conocido y conservar también lo que quedó afuera de la edición.
+El archivo para investigar y conectar noticias sigue en desarrollo. Por ahora, la edición pública sirve para ver cómo termina una parte de ese proceso.
 
 [Leer en la web](https://tomasrene.com/experimentos/ai-a-la-mesa) · [Volver al catálogo](../README.md)
 

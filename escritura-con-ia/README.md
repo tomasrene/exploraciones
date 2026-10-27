@@ -1,28 +1,27 @@
 # Escritura con IA
 
-Probar cómo planificar, escribir y revisar sin perder interés ni voz.
+Probar qué pasa cuando una IA escribe, elige y corrige.
 
-**Estado: en pruebas.**
+Me interesa escribir con IA, pero enseguida aparece una pregunta bastante menos técnica: ¿dan ganas de seguir leyendo lo que sale? Empecé a probar distintas formas de investigar, planificar y revisar, conservando los borradores para poder compararlos.
 
-## Qué quería hacer
+## Dos entradas al mismo tema
 
-Quiero investigar qué necesita un sistema de escritura para producir textos que den ganas de seguir leyendo. Eso incluye investigar, elegir un recorrido y revisar sin convertir cada párrafo en una explicación demasiado vigilada.
+### Borrador A · El vecino que deja de contar
 
-## Qué probé
+> La estrella situada en segundo lugar tiene cinco vecinos. Solo uno es una estrella; los otros cuatro son ceros. Para cumplir la regla necesita que al menos la mitad pertenezcan a su grupo. En ese lugar, con ese reparto, le corresponde moverse.
 
-El laboratorio genera dos planes y dos borradores independientes, elige uno y ensaya una ronda acotada de revisión y reparación. Conserva los textos y las decisiones intermedias.
+### Borrador B · Qué explica una fila
 
-Las últimas pruebas trabajaron sobre sistemas complejos y Villa Savoye. Una pieza conservó un problema editorial importante y otra necesitó intervención para completar el proceso. El experimento sigue abierto.
+> Al final quedan seis bloques: ocho ceros, quince estrellas, diez ceros, quince estrellas, dieciséis ceros y seis estrellas. Entre ellos hay cinco fronteras. Treinta de los setenta participantes terminan sin un solo vecino del otro grupo; los cuarenta restantes tienen alguno. La separación ocupa casi toda la fila y el contacto entre grupos se concentra cerca de sus límites.
 
-## Dos pruebas que dejaron preguntas
+Comienzos de dos borradores generados en una misma prueba sobre sistemas complejos. Se conservan tal como salieron.
 
-| Prueba | Qué dejó abierto |
-| --- | --- |
-| Sistemas complejos | Un texto puede superar controles factuales y seguir demorando su explicación o repitiendo conclusiones. |
-| Villa Savoye | Corregir una inferencia visual no resuelve por sí solo una voz demasiado explicativa. |
+## Corregir también puede aplanar
 
-## Qué sigue abierto
+El ensayo genera dos planes y dos textos independientes. Después elige uno y lo pasa por una ronda acotada de revisión. Las últimas pruebas fueron sobre sistemas complejos y Villa Savoye.
 
-Cuándo una corrección mejora el texto y cuándo agrega cautelas, recapitulaciones o regularidad que terminan aplanándolo.
+Corregir datos y mejorar una lectura son trabajos distintos. En estas pruebas quedaron textos que explicaban o recapitulaban de más, y una pieza conservó un problema editorial importante. El sistema todavía está en pruebas.
+
+Quiero seguir mirando los textos concretos: qué cambió entre versiones, qué mejoró y qué se perdió. Acumular correcciones por sí solo no dice demasiado sobre cómo se lee una pieza.
 
 [Leer en la web](https://tomasrene.com/experimentos/escritura-con-ia) · [Volver al catálogo](../README.md)

@@ -1,29 +1,11 @@
 # Ordenar mis finanzas
 
-Clasificar movimientos y entender los gastos sin perder el detalle.
+Juntar movimientos y entender un poco mejor los gastos.
 
-**Estado: en pruebas.**
+Quería juntar movimientos de banco, tarjeta y gastos compartidos para poder mirarlos por mes y por categoría. También poder corregir las etiquetas cuando la clasificación automática no sirve.
 
-## Qué quería hacer
+Hay parsers para las distintas fuentes y una aplicación para revisar movimientos y balances. Una decisión importante es conservar las correcciones: volver a importar no debería borrar el trabajo que ya hice.
 
-Quiero reunir movimientos que vienen de fuentes distintas y poder entender los gastos por mes y por categoría, manteniendo la posibilidad de corregir cómo quedaron clasificados.
-
-## Qué probé
-
-Hay parsers para archivos de banco, tarjeta y gastos compartidos, junto con una aplicación para revisar movimientos y balances mensuales.
-
-Las etiquetas que se corrigen a mano forman parte del trabajo: volver a importar no debería hacer perder esas decisiones.
-
-## Ejemplo ficticio de clasificación
-
-| Movimiento de ejemplo | Categoría posible |
-| --- | --- |
-| Compra en almacén | Comida |
-| Abono de transporte | Transporte |
-| Cena compartida | Gasto compartido |
-
-## Qué sigue abierto
-
-Qué conviene clasificar automáticamente y cómo conservar las excepciones que hacen que una categoría sea útil para mí.
+El ejemplo de esta página es inventado. Los movimientos y archivos personales quedan fuera de la web.
 
 [Leer en la web](https://tomasrene.com/experimentos/finanzas) · [Volver al catálogo](../README.md)

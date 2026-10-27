@@ -1,29 +1,25 @@
 # Herramientas para restaurantes
 
-Explorar los números de un negocio y ordenar tareas administrativas.
+Números, facturas y otras tareas alrededor de un restaurante.
 
-**Estado: en pruebas.**
+Acá se juntan dos pruebas distintas. Una para jugar con los números de un negocio; otra para ordenar el trabajo de las facturas. Todavía no forman un sistema integrado.
 
-## Qué quería hacer
+## Falcone: mover un supuesto
 
-Me interesan las herramientas pequeñas alrededor de un restaurante: entender qué cambia al mover un supuesto y reducir el trabajo de ordenar documentos.
+Falcone es un simulador mensual. Se pueden mover ventas, precios, costos de comida, trabajo y gastos fijos para ver cómo cambia el resultado. Los valores son supuestos del modelo.
 
-## Qué probé
+```python
+gross_profit = total_revenue - total_food_cost
+ebitda = gross_profit - labor_total - fixed_cost_total
+```
 
-Falcone es un simulador de resultados mensuales: volumen de ventas, precios, costos de comida, trabajo y gastos fijos. Permite explorar escenarios.
+Dos líneas de compute_pnl, la función que calcula los escenarios del simulador.
 
-Flama parte de las facturas: extracción de datos desde PDF o imagen, tablas de revisión y comparación con registros de compras. Son dos casos distintos dentro de esta búsqueda; todavía no forman un sistema administrativo integrado.
+## Flama: del documento a la tabla
 
-## Dos entradas al mismo problema
+Flama arranca en otro lugar: facturas en PDF o imagen que hay que pasar a una tabla y revisar. Hay pruebas de extracción y comparación con registros de compras.
 
-| Caso | Pregunta |
-| --- | --- |
-| Falcone | ¿Qué pasa con el resultado si cambian el volumen, los precios o los costos? |
-| Flama | ¿Cómo pasar de documentos dispersos a información que se pueda revisar y comparar? |
-
-## Qué sigue abierto
-
-Qué tareas conviene automatizar y en cuáles hace falta que una persona pueda revisar el documento original y corregir.
+Me interesa que el dato extraído siga cerca del documento. Si algo no cierra, debería poder volver a la factura y corregirlo sin perder esa decisión en la próxima importación.
 
 [Leer en la web](https://tomasrene.com/experimentos/restaurantes) · [Volver al catálogo](../README.md)
 

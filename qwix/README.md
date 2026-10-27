@@ -1,15 +1,15 @@
 # El Qwix en tu celu
 
-Una idea pendiente de desarrollar y contar.
+Una versión publicada que quiero recuperar del historial de Oikos.
 
-**Estado: idea.**
+**Estado: por recuperar.**
 
 ## Qué quería hacer
 
-Esta idea sigue en mi lista de cosas para probar.
+Hubo una versión publicada y compartida. Estoy buscando sus archivos y la dirección en el historial de Oikos/OpenClaw.
 
 ## Qué sigue abierto
 
-Todavía tengo que darle forma y contar qué quiero hacer.
+Recuperar la implementación y su enlace antes de volver a mostrarla.
 
 [Leer en la web](https://tomasrene.com/experimentos/qwix) · [Volver al catálogo](../README.md)

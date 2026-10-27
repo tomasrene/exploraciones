@@ -1,29 +1,11 @@
 # Leer datos electorales
 
-Ordenar resultados y ver qué comparaciones permiten las fuentes.
+Ordenar resultados de la UBA sin perder de vista cómo se contaron.
 
-**Estado: en pruebas.**
+Empecé por ordenar resultados y punteos de elecciones de la UBA. Antes de comparar porcentajes, hacía falta entender qué estaba contando cada archivo.
 
-## Qué quería hacer
+Hay tablas por año, sección, carrera, día y fuerza. También una documentación de los huecos: cuándo el escrutinio permite separar por carrera, qué fuerzas se puntearon y qué información falta.
 
-Me interesa poder leer datos electorales sin mezclar cosas que parecen comparables pero fueron registradas de formas distintas.
-
-## Qué probé
-
-Hay un trabajo sobre resultados y punteos de elecciones de la UBA, con tablas normalizadas por año, sección, carrera, día y fuerza.
-
-La documentación distingue escrutinios de conteos parciales y registra cuándo existe un desglose por carrera y cuándo no.
-
-## Una distinción antes de comparar
-
-| Fuente | Qué mirar |
-| --- | --- |
-| Escrutinio | El resultado registrado y su nivel de desglose. |
-| Punteo | La cobertura del conteo y las fuerzas que se relevaron. |
-| Comparación | Si los denominadores y las unidades coinciden. |
-
-## Qué sigue abierto
-
-Cómo comparar sin inventar una precisión que las fuentes no tienen y cómo hacer visibles los datos que faltan.
+Un resultado oficial y un conteo parcial pueden terminar en columnas muy parecidas. Me interesa que esa diferencia siga a la vista cuando los datos se convierten en una tabla o un gráfico.
 
 [Leer en la web](https://tomasrene.com/experimentos/datos-electorales) · [Volver al catálogo](../README.md)

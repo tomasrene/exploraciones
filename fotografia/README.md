@@ -1,27 +1,28 @@
 # Aprender mirando mis fotos
 
-Un editor crítico para aprender fotografía a partir de fotos propias.
+Aprender fotografía mirando las fotos que voy sacando.
 
-**Estado: en pruebas.**
+La idea es tener un editor crítico para mis fotos. Poder mirar una imagen concreta y entender qué está pasando con el encuadre, la luz o el momento. Y salir de esa conversación con algo para probar la próxima vez.
 
-## Qué quería hacer
+## El mismo marco, dos encuadres
 
-Quiero un editor crítico de fotos que me ayude a aprender con las imágenes que saco. Que pueda hablar del encuadre y del momento, explicar decisiones técnicas y proponer algo concreto para la próxima salida.
+![Un marco dorado frente a un canal; un poste ocupa el centro del encuadre.](../assets/foto-5771.webp)
 
-## Qué probé
+![El mismo marco visto en diagonal, con el canal y los edificios detrás.](../assets/foto-5772.webp)
 
-La primera revisión trabaja sobre una serie de fotos de los Balcanes. Separa la lectura visual de las fichas técnicas y conserva una bitácora de aprendizaje.
+Dos fotos propias de la misma serie. La revisión prefiere la primera por su orden, pero señala que el poste termina tapando lo que quería encuadrar.
 
-La bitácora distingue un concepto recién explicado de uno que ya aparece aplicado. Cada sesión termina con pocas prioridades, para poder practicarlas.
+## Algo para llevar a la próxima salida
 
-## Una foto, una decisión para practicar
+La primera prueba fue con una serie de los Balcanes. Separé los comentarios sobre la imagen de la explicación técnica: mirar por qué funciona una foto y entender un ajuste de cámara necesitan tiempos distintos.
 
-![Una calle de piedra con arcos a la derecha, personas caminando y pájaros sobre los edificios.](../assets/fotografia-balcanes.webp)
+También hay una bitácora. Haber leído qué hace el ISO una vez no significa que ya lo tenga incorporado; la idea es volver a mirar si eso aparece en las fotos siguientes.
 
-Foto propia de la serie Balcanes. La revisión observa cómo los arcos conducen la mirada y cómo el objeto rojo compite con ese recorrido. Para otra toma, propone esperar una relación más clara entre personas y arquitectura.
+- **Antes de disparar:** Mirar detrás del sujeto y recorrer los cuatro bordes.
+- **Antes de salir:** Revisar el ISO. Una prioridad técnica por vez.
 
-## Qué sigue abierto
+![Calle de piedra con arcos a la derecha y personas caminando.](../assets/fotografia-balcanes.webp)
 
-Cómo sostener una crítica útil en el tiempo y comprobar si una sugerencia realmente aparece en nuevas fotos.
+Otra foto de la serie. Los arcos llevan la mirada hacia el fondo; el objeto rojo la trae de vuelta. Ese tipo de decisiones es lo que quiero poder conversar.
 
 [Leer en la web](https://tomasrene.com/experimentos/fotografia) · [Volver al catálogo](../README.md)
