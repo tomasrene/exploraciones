@@ -2,15 +2,15 @@
 
 Buscar una escritura con IA que me den ganas de leer, para aprender cosas nuevas.
 
-Este proyecto salió de los newsletters de los viajes. Me gusta mucho escribir y siento que hay algo de la escritura humana que la IA todavía no logra imitar: la decisión de qué contar y con qué palabras. Para mí, ahí hay una diferencia entre un texto con alma y uno sin alma.
+Es un proyecto que salió de los newsletters de los viajes. A mí me gusta mucho escribir y siento que hay un valor en la escritura humana que todavía —todavía— no fue imitado por la IA. La decisión de qué contar y con qué palabras es algo que diferencia un texto con alma de un texto sin alma.
 
-En los newsletters lo veía bastante. Algunas veces salían muy bien y otras no tanto. Quería entender por qué y probar si podía construir un sistema que escribiera algo más parecido a lo que a mí me gustaría leer.
+Mucho de eso lo vi en los newsletters de viaje. Algunas veces salía muy bien y otras no tanto. Quería entender por qué y ver si había alguna manera de desarrollar un sistema para que la escritura fuera más parecida a algo que me gustaría leer a mí.
 
-## Aprender de a una entrega
+## Aprender por newsletter
 
-Hay muchas cosas que quiero aprender y el formato newsletter me parece bueno: tiene una periodicidad, te llega y no tenés que abrir algo vos. Si queda en la bandeja de entrada se siente como una obligación, y no requiere bajar una app nueva.
+Lo pensé, sobre todo, enfocado a aprender cosas nuevas. Hay muchas cosas que quiero aprender y el formato newsletter me parece bueno porque tiene una periodicidad, porque te llega y no tenés que abrir algo vos, porque si queda en la bandeja de entrada se siente como una obligación. No requiere bajar una app nueva.
 
-Quería explorar cómo explicar y redactar cosas para aprender en ese formato. A partir de ahí empecé una investigación bastante profunda sobre técnicas de escritura, tipos de textos, estructuras y formas de revisar.
+Quería ver cómo empezar a explicar y redactar cosas para aprender en ese formato. Para eso arranqué una investigación bastante profunda de técnicas de escritura, tipos de textos, estructuras y formas de revisar.
 
 ## Dos entradas al mismo tema
 
@@ -24,12 +24,12 @@ Quería explorar cómo explicar y redactar cosas para aprender en ese formato. A
 
 Comienzos de dos borradores generados en una misma prueba sobre sistemas complejos. Se conservan tal como salieron.
 
-## Una de las cosas que me sorprendió
+## Las pruebas de escritura
 
-Hay mucho escrito sobre cómo escribir, pero todavía es difícil darle una voz humana a la IA. En el medio me crucé con cosas bastante llamativas.
+Hay mucho escrito sobre cómo escribir, pero todavía es difícil darle una voz humana a la IA. En el medio me crucé con cosas llamativas, incluso pruebas bastante antiintuitivas.
 
-En mis pruebas me resultó mejor pedirle que usara recursos tomados de un autor que decirle que escribiera como ese autor. Es una diferencia que me llamó la atención: trabajar con las herramientas que usa para contar algo daba mejores resultados que intentar copiarle la voz.
+En mis pruebas, si le decía que escribiera como un autor lo hacía mal; si le pedía que escribiera con recursos sacados de ese autor, lo hacía mucho mejor.
 
-Todavía no logré producir textos que suenen como me gustaría. Es una exploración que sigue en curso. Voy guardando los borradores y las comparaciones para seguir probando.
+Todavía no logré producir textos que suenen como me gustaría.
 
 [Leer en la web](https://tomasrene.com/experimentos/escritura-con-ia) · [Volver al catálogo](../README.md)

@@ -2,18 +2,16 @@
 
 Armo un prototipo. ¿Por qué cuesta tanto compartirlo con una o dos personas?
 
-Siento que hoy es muy fácil pensar ideas y desarrollar prototipos de aplicaciones o webs para cosas relativamente sencillas. Pero hay muchas piezas que faltan para que eso se pueda compartir.
+Esto está justo en marcha ahora. Lo que me molesta es lo siguiente: siento que hoy es muy fácil pensar ideas y desarrollar prototipos de aplicaciones o webs para cosas relativamente sencillas. Sin embargo, hay muchas piezas que faltan para que eso se pueda compartir.
 
-Yo armo un prototipo, pero para publicarlo y compartirlo con una o dos personas cuesta un montón. Hay que tomar un montón de decisiones que requieren cierto conocimiento, o por lo menos conocer el lenguaje. Ahí veo una fricción que estoy explorando cómo se resuelve.
+Yo armo un prototipo, pero para publicarlo y poder compartirlo con una o dos personas cuesta un montón. Hay que tomar un montón de decisiones y resolver cosas que requieren cierto conocimiento o, por lo menos, conocer el lenguaje. Ahí veo una fricción que estoy explorando cómo se resuelve.
 
-## Del prototipo a compartirlo
+## Poder compartirlo
 
-Hay muchos proyectos para los que no me parece que valga la pena pagar otra herramienta. Me gustaría poder reutilizar las suscripciones que uno ya tiene, tipo ChatGPT, para alimentar esas aplicaciones. Eso es parte de lo que quiero investigar; todavía no tengo resuelto cómo.
+Creo que hay muchos proyectos para los que no vale la pena gastar plata en otra herramienta. Me gustaría que uno pudiera reutilizar sus suscripciones, tipo ChatGPT, para alimentar esas aplicaciones. Todavía estoy explorando qué se puede hacer con eso.
 
-Mi idea era armar algo open source, con un par de building blocks útiles para ese tramo entre tener un prototipo y poder pasárselo a alguien.
+Mi idea era armar algo open source, con un par de building blocks útiles. Por ahora My Apps es el nombre provisional y armé un laboratorio con casos chicos para probar partes de ese recorrido.
 
-My Apps es el nombre provisional. Por ahora armé un laboratorio con casos chicos para probar partes de ese recorrido.
-
-Está justo en marcha. No estoy seguro de que pueda armar algo que lo solucione, pero esa es la fricción que me interesa.
+No estoy seguro de que pueda armar algo para solucionarlo.
 
 [Leer en la web](https://tomasrene.com/experimentos/apps-personales) · [Volver al catálogo](../README.md)

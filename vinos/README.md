@@ -2,25 +2,25 @@
 
 Buscar joyitas entre catálogos de distribuidores y armar una carta de vinos.
 
-Cuando tenía Flama, un bar de vinos, quería armar la carta a partir de lo que ofrecían los distintos distribuidores. Encontrar joyitas, vinos que tuvieran que ver con el perfil del bar, y reunir la información para elegir: región, productor, cepas, añada, perfil y precio.
+Tenía un bar de vinos, Flama, y los distribuidores tenían catálogos que iban modificando y actualizando. Algunos eran larguísimos. Yo quería poder armar una carta a partir de los vinos que tenían los distintos distribuidores, encontrando joyitas o cosas que tuvieran que ver con el perfil del bar.
 
-El problema era que tenía muchos catálogos. Algunos larguísimos, que además se iban actualizando. Quería poder buscar con criterio y armar una lista sin tener que recorrerlos todos cada vez.
+Además quería sacar toda la información: región, productor, cepas, añada, perfil, precio, etcétera. Ese era el problema real: tengo muchos catálogos, quiero buscar con criterio y armar una lista de vinos.
 
 ## “Quiero un tinto catalán ligero”
 
-Ese es el tipo de pedido que quería poder hacer. La región puede estar escrita en el catálogo; “ligero” ya requiere interpretar qué vino podría encajar con lo que estoy buscando. Encontrar un fragmento de texto parecido no alcanza para resolver toda la consulta.
+Los problemas técnicos eran dos. Por un lado, las búsquedas eran relativamente específicas: “quiero un tinto catalán ligero”. Para entender qué es un vino ligero y cuál puede serlo hace falta algo más que encontrar palabras parecidas en un catálogo.
 
-Lo que armé fue una mezcla de RAG con búsqueda de LLM encima de los catálogos, para que pudiera interpretar ese pedido y buscar entre los vinos disponibles.
+Quería que el LLM pudiera razonar sobre lo que estaba pidiendo y los vinos disponibles. Después había que buscar en los catálogos y tener información suficiente para hacer esa selección.
 
-## Antes había que leer los catálogos
+## PDFs y Excels
 
-Había Excels, PDFs bastante estructurados y otros donde el diseño complicaba sacar cualquier dato. Definí un objeto común para representar cada vino y fui probando distintas formas de llevar los catálogos a ese esquema: extracción de texto, OCR y modelos que leen imágenes y texto, los VLM.
+Por otro lado estaban los formatos. Algunos catálogos eran Excel, otros PDFs estructurados, otros no estructurados. Había que explorar cómo trabajar con cada tipo de archivo y cómo llevar todos esos datos a un objeto con un mismo esquema.
 
-Después monté una mezcla de RAG y búsqueda con LLM sobre esa información. La idea era poder pasar de todos esos archivos a una selección para la carta.
+Lo que armé fue una forma de resolver esos problemas: definí un objeto para representar los vinos, extraje la información mediante distintas técnicas —texto, OCR y llamadas a VLM, modelos que pueden leer las páginas como imágenes— y monté una mezcla de RAG con búsqueda de LLM encima.
+
+Después había problemas como que el precio en algunos catálogos venía con IVA, en otros sin IVA, pero no estaba aclarado. En fin, problemas del mundo real.
 
 - **La ficha del vino:** Región, productor, cepas, añada, perfil y precio, reunidos en un esquema común.
 - **El precio también hay que leerlo:** En algunos catálogos venía con IVA, en otros sin IVA, y a veces ni siquiera estaba aclarado.
-
-Bastante interesante técnicamente el problema, la verdad, para ser algo aparentemente tan sencillo. Entre los formatos, las búsquedas y los precios con IVA o sin IVA, terminó teniendo un montón de problemas del mundo real.
 
 [Leer en la web](https://tomasrene.com/experimentos/vinos) · [Volver al catálogo](../README.md)

@@ -2,7 +2,7 @@
 
 Descubrir discos enteros, con su orden y su contexto.
 
-A mí no me gusta nada que hoy, con Spotify pero por otros fenómenos también, uno tienda a escuchar playlists fragmentadas. Siento que se perdió el concepto del álbum. Y para mí el álbum tiene algo muy lindo: un artista elige un orden de canciones para ir llevándote por un mood, te pone una más arriba, otra más abajo.
+A mí no me gusta nada que en la actualidad, con Spotify pero por otros fenómenos también, uno tienda a escuchar playlists fragmentadas. Se perdió el concepto del álbum. Y para mí el álbum tiene algo muy lindo: un artista elige un orden de canciones para ir llevándote por un mood, te pone una más arriba, otra más abajo.
 
 Pero además un álbum nace en un contexto, en un momento determinado, discutiendo con ciertas tendencias, con un perfil de letras. Yo quería volver a escuchar álbumes, pero también poder descubrir discos y artistas que no conocía.
 
@@ -10,20 +10,14 @@ Pero además un álbum nace en un contexto, en un momento determinado, discutien
 
 La interfaz con un disco completo de ejemplo: Clics Modernos, de Charly García. Es una muestra preparada para esta página.
 
-## Una playlist armada con álbumes
+## Playlists, pero de álbumes
 
-Hoy es fácil buscar música para un mood muy específico. Algo tipo “música chill para un asado de domingo a la tarde, con sol pero no tanto calor”. Mi idea era pedir una playlist así, pero compuesta por álbumes enteros de distintos artistas, respetando el orden de cada disco.
+Hoy, si buscás música de un mood determinado, es muy fácil en Spotify. Te arma una playlist de “música chill para un asado de un domingo a la tarde con sol pero no tanto calor”. Es un ejemplo, pero me hace gracia lo específicas que pueden ser.
 
-También me interesan pedidos como “los tres mejores discos de Charly”. Recorrer a un artista por sus obras, aunque haya algún tema que no me guste en el medio, en vez de terminar siempre en un “Greatest Hits” o un “This Is…”.
+Yo lo que quería era que me armara una playlist compuesta por álbumes de artistas. Poder descubrir música nueva, pero con su orden y contexto original. También recorrer los discos de una banda organizados por etapas, entendiendo qué fue cambiando.
 
-```python
-raw_items = iter_album_track_items(sp, aid)
-```
+Incluye exploraciones tipo “los tres mejores discos de Charly”, que también es algo que me gusta: ver a un artista por sus mejores obras, aunque tengan temas malos en el medio, sin estar siempre escuchando “The Greatest Hits” o “This Is…”.
 
-Un recorte del código que recupera las canciones del álbum desde Spotify para incorporarlo completo.
-
-De ahí salió el armador de playlists. La versión local permite conversar sobre la selección, trabajar con varias propuestas y llevarlas a Spotify. Lo que quiero conservar en ese recorrido es el disco completo: sus canciones, su orden y la posibilidad de descubrir algo más que los temas conocidos.
+La versión local permite conversar sobre las propuestas, cambiar la selección y llevarla a Spotify.
 
 [Leer en la web](https://tomasrene.com/experimentos/playlists) · [Volver al catálogo](../README.md)
-
-[El disco del ejemplo en Spotify](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H)

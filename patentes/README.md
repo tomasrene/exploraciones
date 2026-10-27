@@ -2,17 +2,17 @@
 
 Un juego de viaje para ir coleccionando patentes europeas.
 
-Cuando viajo por la ruta o por distintos países de Europa, hay un juego que se repite: ir mirando las patentes y preguntar “uh, ¿esta ya la vimos?”. Un día aparecieron más preguntas: qué tipos de patentes existen, cuáles serán las más raras, qué nombre e inicial tienen los distintos países.
+En los viajes por la ruta o por distintos países de Europa hay un juego que se repite: ir mirando las patentes y preguntar “uh, ¿esta ya la vimos?”. Un día nos preguntamos qué tipos de patentes existían, cuáles serían las más raras, qué nombre e inicial tienen los distintos países, etcétera.
 
-Así que dije: “voy a armar un juego para ir coleccionando patentes”. Fue simplemente eso, una exploración divertida de un juego de viaje.
+Así que dije: “voy a armar un juego para que podamos ir coleccionando patentes”. Quería tener un álbum en el celu e ir marcando las que aparecían mientras viajábamos.
 
 ![Interfaz del álbum de patentes, con filtros y patentes de varios países.](../assets/patentes-ejemplo.webp)
 
 El álbum con progreso de ejemplo.
 
-## Un álbum para la ruta
+## El álbum
 
-La app permite revelar el país de una patente, marcarla como vista y volver a las que faltan. Hay formatos, bandas y colores distintos; parte del juego es ir aprendiendo a reconocerlos.
+La app tiene las patentes de distintos países, con sus formatos, bandas y colores. Se puede revelar de qué país es cada una, marcarla como vista y ver cuáles faltan.
 
 Después me enteré de que hay toda una comunidad de cazadores de patentes.
 
